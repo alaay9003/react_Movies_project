@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![app](Capture.PNG)
 In the project directory, you can run:
 
 ### `npm start`
