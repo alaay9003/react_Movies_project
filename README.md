@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 ![app](Capture.PNG)
+I created React Movie App and Fetch Movie API
+
 In the project directory, you can run:
 
 ### `npm start`
